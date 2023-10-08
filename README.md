@@ -1,6 +1,6 @@
 # TracerT
 Merhabalar bu iptracerimiz sayesinde ip üzerinden bazı bilgileri topliyabiliceksiniz 
-https://dosya.co/t6czrmp5k2xx/KESKNiptrac.py.html
+https://dosya.co/in0xmsz76dsk/KESKNiptrac.py.html
 uzerinden yukleyin ve termuxa girin
 ilk olarak 
 termux-setup-storage
