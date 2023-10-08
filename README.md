@@ -20,3 +20,5 @@ python KESKNiptrac.py -v ve ip adresini yaziyoruz örnek 👇
 python KESKNiptrac.py -v xxxxxxx
 diye yazıyoruz sonra biraz bekleyin ve onunuze bilgiler gelecektir iyi günler:)
 
+DİKKAT
+HERŞEY EĞİTİM AMAÇLIDIR KÖTÜYE KULLANIRSINIZ HİÇBİR SUÇU ÜSTLENMİYORUM 
